@@ -21,6 +21,7 @@ A curated collection of production-grade **Model Context Protocol (MCP)** server
 ### 3. Utility & Execution Servers
 * **`nixos`**: Native Nix package searching and NixOS configuration evaluation.
 * **`sequential-thinking`**: Dynamic multi-step reasoning buffer and thought tree evaluation server.
+* **[Agent QA](https://github.com/vostride/agent-qa)**: FSL-1.1-ALv2 source-available MCP harness for defining, validating, running, and triaging natural-language web and mobile tests.
 
 ---
 
