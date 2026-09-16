@@ -13,6 +13,7 @@ A curated collection of production-grade **Model Context Protocol (MCP)** server
 ### 1. Codebase & Memory Servers
 * **`server-memory`**: Relational Knowledge Graph memory server for long-term agent memory.
 * **`codebase-memory-mcp`**: AST structural code search and architectural graph indexing tool.
+* **[ContextStream](https://github.com/contextstream/mcp-server)**: Shared project context for AI coding agents — hosted MCP with code search, decisions, lessons, and plans.
 
 ### 2. Search & Research Servers
 * **`tavily`**: Advanced web search, deep research, and web crawling MCP server.
